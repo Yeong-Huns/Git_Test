@@ -1,0 +1,11 @@
+(1) git remote add origin "저장소 주소" : 원격 저장소에 연결합니다.
+
+(2) git remote -v : 원격 저장소에 연결됐는지 확인합니다.
+
+(3) git push -u origin main : 지역 저장소(main브랜치)의 커밋을 맨 처음 원격 저장소로 올립니다.
+
+(4) git push : (한번 올리기 한 후에) 지역 저장소의 커밋을 원격 저장소로 올립니다.
+
+(5) git pull || git pull origin main : 원격 저장소의 커밋을 지역 저장소로 가져온다.
+
+(6) ssh-keygen : ssh키 생성
